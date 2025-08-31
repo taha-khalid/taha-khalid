@@ -1,4 +1,4 @@
-## I'm Taha Khalid 👋
+## I'm Taha👋
 
 <!--
 **taha-khalid/taha-khalid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
