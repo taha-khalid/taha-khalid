@@ -6,7 +6,7 @@
 
 - 🤝 I’m looking for help with **DevOps**
 
-- ⚡ Fun fact **“README uptime: 100%, personality uptime: best-effort.”*
+- ⚡ Fun fact **“README uptime: 100%, personality uptime: best-effort.”**
 
 
 <h3 align="left">Connect with me:</h3>
