@@ -1,5 +1,3 @@
-```md
-```
 # Hi 👋, I'm Taha Khalid
 
 ### Cloud Engineer | DevOps Enthusiast | Kubernetes & AWS Learner
@@ -73,4 +71,3 @@
 ## 💡 Quote I Like
 
 > “First, solve the problem. Then, automate it.”
-```
