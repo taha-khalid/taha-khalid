@@ -1,10 +1,9 @@
 ```md
-<h1 align="center">Hi 👋, I'm Taha Khalid</h1>
-<h3 align="center">Cloud Engineer | DevOps Enthusiast | Kubernetes & AWS Learner</h3>
+# Hi 👋, I'm Taha Khalid
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=taha-khalid&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+### Cloud Engineer | DevOps Enthusiast | Kubernetes & AWS Learner
+
+![Profile Views](https://komarev.com/ghpvc/?username=taha-khalid&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
 
@@ -21,62 +20,41 @@
 
 ## 🌐 Connect With Me
 
-<p align="left">
-<a href="https://twitter.com/tahakha46714657" target="_blank">
-  <img src="https://skillicons.dev/icons?i=twitter" height="40" />
-</a>
-
-<a href="https://linkedin.com/in/taha-khalid-3a5805184" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
-</p>
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/tahakha46714657)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/taha-khalid-3a5805184)
 
 ---
 
 ## 🛠️ Languages and Tools
 
 ### ☁️ Cloud & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,jenkins,linux,nginx,redis,rabbitmq,grafana,bash" />
-</p>
+![Cloud](https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,jenkins,linux,nginx,redis,rabbitmq,grafana,bash)
 
 ### 💻 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,typescript" />
-</p>
+![Languages](https://skillicons.dev/icons?i=python,java,c,cpp,javascript,typescript)
 
 ### 🌐 Web Development
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,sass,react,nodejs,express,django,flask" />
-</p>
+![Web](https://skillicons.dev/icons?i=html,css,sass,react,nodejs,express,django,flask)
 
 ### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" />
-</p>
+![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite)
 
 ### 🔧 Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,postman,arduino,tensorflow" />
-</p>
+![Tools](https://skillicons.dev/icons?i=git,postman,arduino,tensorflow)
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=taha-khalid&show_icons=true&theme=tokyonight" />
-  
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taha-khalid&layout=compact&theme=tokyonight" />
-</p>
+![Taha's GitHub stats](https://github-readme-stats.vercel.app/api?username=taha-khalid&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taha-khalid&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🔥 Streak Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=taha-khalid&theme=tokyonight" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=taha-khalid&theme=tokyonight)
 
 ---
 
@@ -94,5 +72,4 @@
 ## 💡 Quote I Like
 
 > “First, solve the problem. Then, automate it.”
-
 ```
